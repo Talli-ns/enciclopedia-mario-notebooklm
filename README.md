@@ -1,4 +1,4 @@
-# 🍄 Enciclopédia Analítica do Mushroom Kingdom
+# 🍄 Enciclopédia Analítica do Super Mario
 > **Projeto de Estudos com NotebookLM** desenvolvido para o desafio prático da **[DIO (Digital Innovation One)](https://dio.me)**. Este repositório demonstra a aplicação de Inteligência Artificial para curadoria de conteúdo, engenharia de prompts e estruturação de conhecimento de forma crítica e analítica.
 
 ---
