@@ -98,7 +98,7 @@ Diferente de um compêndio comum de informações, este projeto prioriza o **pen
 
 ---
 
-## 📂 Miniguia de Estudo: Lore de Super Mario (Entrega Final)
+## 📂 Estudo: Super Mario (Entrega Final)
 
 Abaixo está o conteúdo consolidado e refinado no NotebookLM a partir do cruzamento das fontes analisadas.
 
