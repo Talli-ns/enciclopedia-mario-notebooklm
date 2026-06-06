@@ -159,7 +159,7 @@ Você pode jogar o quiz de duas maneiras:
    * No menu lateral esquerdo, clique em **Pages**.
    * Em *Build and deployment*, na opção *Branch*, selecione **main** (ou a branch principal) e a pasta **/ (root)**.
    * Clique em **Save**.
-   * Aguarde alguns minutos e o GitHub fornecerá um link público. O seu quiz estará disponível em: `https://seu-usuario.github.io/nome-do-seu-repositorio/quiz.html` (lembre-se de substituir `seu-usuario` e `nome-do-seu-repositorio` pelos seus dados reais!).
+   * Aguarde alguns minutos e o GitHub fornecerá um link público. O seu quiz estará disponível em: `https://talli-ns.github.io/enciclopedia-mario-notebooklm/quiz.html`.
 
 ---
 Elaborado com 💙 para o portfólio da DIO.
