@@ -7,7 +7,7 @@
 * 📂 **[Acesse o Caderno Temático no Google NotebookLM](https://notebooklm.google.com/notebook/0831b08b-efc6-4d1c-99b2-7ea1260d88b9)** *(Nota: Para acessar o caderno compartilhado, é necessário estar conectado a uma conta Google).*
 * 🎥 **Vídeo Explicativo no NotebookLM:** Dentro da plataforma do NotebookLM, na seção de guias do caderno, há um vídeo gerado cobrindo e resumindo todo o tema abordado.
 * 🎮 **Quiz Interativo:** O arquivo [quiz.html](./quiz.html) na raiz do repositório contém o *"Level Up! Quiz Definitivo do Universo Super Mario"*, um jogo com 8 perguntas desafiadoras para testar seus conhecimentos e conceder títulos de classificação baseados nos seus acertos (desde *Goomba Iniciante* até *Mestre Supremo*).
-* 🌐 **Jogar Online:** [Acesse o Quiz hospedado no GitHub Pages](https://seu-usuario.github.io/nome-do-seu-repositorio/quiz.html) *(Substitua pelo link gerado no seu repositório)*.
+* 🌐 **Jogar Online:** [Acesse o Quiz hospedado no GitHub Pages](https://seu-usuario.github.io/enciclopédia-caderno-do-mario/quiz.html) *(Substitua pelo link gerado no seu repositório)*.
 
 ---
 
